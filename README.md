@@ -54,4 +54,4 @@ Key observations included:
 - Feature engineering improved fit but did not guarantee economic profitability
 - Proper validation substantially reduced apparent performance
 
-These findings underscore the inherent challenges of applying machine learning to financial return prediction and emphasise the importance of realistic evaluation.
+The datasets are included for reproducibility and educational purposes only, as provided by the Kaggle Hull Tactical Challenge.
